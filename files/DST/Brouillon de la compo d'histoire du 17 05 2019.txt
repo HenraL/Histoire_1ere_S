@@ -1,0 +1,54 @@
+- Armistice avec l'Allemagne (All)
+/*- L'All est exclu de son procès*/
+/*- L'All est exclu de l'unesco*/
+/*- L'All considère que le traité de paix est un dictat*/
+/*- L'All se sent humiliée*/
+/*- L'All est ruinée et subiera un krach boursier car l'Angleterre n'achète plus sont blé en All mais aux USA*/
+/*- L'All doit payer une amande de de 50 000 francs à la FR*/
+- création de l'unesco
+/*- Quand un pays membre a besoin d'aide, l'unesco va utiliser l'armée d'un des pays pilliers pour venir en aide*/
+/*- L'italie considère sa victoire comme une victoire mutilée car elle ne récupère pas tout les pays qu'elle voulais*/
+/*- La Russie ne récupère pas tous ses pays car une partie de ceux-ci vont servir de pays tampons avec l'All*/
+/*- Les pays non gagnant ont été redécupé "à la règle", de façon aléatoire, cela engendre des guerres (civil, de religion) épouventables*/
+/*- On donne un accès à la mère à la pologne par un couloir qui va être appelé les couloir de danzig, celui-ci coupe l'All en deux et va faire qu'elle va perdre sont plus grand port maritime*/
+/*- Le traité de paix mènera à des dictateurs (en Russie: Lénine, Italie: Musolini, All: Hitler)*/
+
+
+plan de dev:
+
+I-Un traité de Versailles injuste
+	A) injuste envers l'All
+		1) L'All se sent humiliée
+		2) L'All est exclu de son procès
+		3) L'All doit payer une amande de de 50 000 francs à la FR
+		4) On donne un accès à la mère à la Pologne par un couloir qui va être appelé le couloir de Danzig, celui-ci coupe l'All en deux et va faire qu'elle va perdre sont plus grand port maritime
+		5) L'All considère que le traité de paix est un dictat
+	B) injuste Enver la Russie et mutilée pour l’Italie
+		1) L’Italie considère sa victoire comme une victoire mutilée car elle ne récupère pas tous les pays qu'elle voulait
+		2) La Russie ne récupère pas tous ses pays car une partie de ceux-ci vont servir de pays tampons avec l'All
+	C) injuste envers les petits pays et les pays perdants (colonies, pays annexés par l'axe, ...) 
+		1) Les pays non gagnant ont été redécoupé "à la règle", de façon aléatoire
+		2) cela engendre des guerres (civil, de religion) épouvantables
+
+II- Une paix porteuse de guerre future
+	A.1) un Unesco au dépend des autres pays
+		1) Un Unesco sans armée
+		2) Quand un pays membre a besoin d'aide, l’Unesco va utiliser l'armée d'un des pays piliers pour venir en aide
+	A.2) un Unesco pas pour tout le monde
+		1) L'All est exclu de l’Unesco
+		2) L'Autriche n'en fait pas non-plus partie
+	B) Des crises économiques
+		1) L'All est ruinée et subira un krach boursier car l'Angleterre n'achète plus sont blé en All mais aux USA, cela engendre l'effondrement de la bourse de Vienne.
+		2) le krach de l'All va entrainer un krach en France, en Italie, ...
+	C) une paix qui enfante des dictateurs
+		1) Le traité de paix mènera à des dictateurs 
+		2) en Russie: Lénine
+		3) en Italie: Mussolini
+		4) enfin en All: Hitler
+
+
+
+plan:
+
+intro:
+à la fin de la 1ère Guerre mondiale (1914-1918) L'Allemagne est vaincu et un traité est créé pour essayer d'instaurer la paix et de maintenir l'ordre. Ce traité est celui de versailles. La paix qui s'instaurera sera porteuse de guerre future. Après la défaite de l'Allemagne, les alliés (France, Angleterre, Russie, Italie(ver la fin de la guerre)) vont redessiner le monde et imposer des lois pour essayer d'empêcher la réaparition d'un géant redoutable, l'Allemagne. /*L'italie quand à elle va considerer sa victoire comme "mutilée". On peut se demander en quoi ce traité de versailles est-il une paix proteuse de guerre future. d'abord nous verrons qu'il est injuste. Puis que cette paix est porteuse de guerre future. Enfin nous concluerons.
